@@ -1,1 +1,1 @@
-# pict_file
+# images_file
